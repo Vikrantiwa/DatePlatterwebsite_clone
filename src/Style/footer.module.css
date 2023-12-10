@@ -1,0 +1,21 @@
+.row {
+  margin-top: 40px;
+  background-color: #4d646f;
+  text-align: left;
+}
+.col {
+  margin: 40px;
+  color: white;
+  /* margin-left: 40px; */
+}
+.icons {
+  display: flex;
+  /* justify-content: space-around; */
+  column-gap: 6px;
+  align-items: center;
+  /* color: aqua; */
+  font-size: 2em;
+}
+.span {
+  font-size: 1.5rem;
+}
